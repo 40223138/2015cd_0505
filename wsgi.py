@@ -111,7 +111,7 @@ class Midterm(object):
         <body>
         <a href="spur">spur</a><br />
         <a href="drawspur">drawspur</a><br />
-        <a href="fileuploadform">上傳檔案</a><br />
+        <a href="fileuploadform"> 上傳檔案</a><br />
         <a href="download_list">列出上傳檔案</a><br />
         </body>
         </html>

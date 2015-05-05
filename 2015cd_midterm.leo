@@ -1761,7 +1761,7 @@ def index(self):
     &lt;body&gt;
     &lt;a href="spur"&gt;spur&lt;/a&gt;&lt;br /&gt;
     &lt;a href="drawspur"&gt;drawspur&lt;/a&gt;&lt;br /&gt;
-    &lt;a href="fileuploadform"&gt;上傳檔案&lt;/a&gt;&lt;br /&gt;
+    &lt;a href="fileuploadform"&gt; 上傳檔案&lt;/a&gt;&lt;br /&gt;
     &lt;a href="download_list"&gt;列出上傳檔案&lt;/a&gt;&lt;br /&gt;
     &lt;/body&gt;
     &lt;/html&gt;
